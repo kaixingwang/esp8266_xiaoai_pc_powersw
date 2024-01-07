@@ -1,0 +1,1 @@
+{¨version¨¨2.0.0¨¨config¨{¨headerColor¨¨transparent¨¨headerStyle¨¨dark¨¨background¨{¨img¨¨assets/img/headerbg.jpg¨¨isFull¨«}}¨dashboard¨|{¨type¨¨btn¨¨ico¨¨fal fa-power-off¨¨mode¨É¨t0¨´´¨t1¨¨文本2¨¨bg¨Ì¨cols¨Í¨rows¨Í¨key¨¨power-btn¨´x´Ë´y´Í¨lstyle¨Ë¨clr¨¨#595959¨}÷¨actions¨|÷¨triggers¨|÷¨rt¨|÷}
